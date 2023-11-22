@@ -12,7 +12,7 @@
 
   <br/>
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=tokyonight)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuLuiz-Sousa&show_icons=true&theme=tokyonight)
 
 
 
