@@ -1,1 +1,2 @@
-## Hey, my name is Luiz, and I'm studenting analysis and developer of systems
+## I'm an academic of analysis and development of systems. Studying fourth period at UniBrasil university.
+# Technologys that I'm learning
