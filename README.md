@@ -14,7 +14,7 @@
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuLuiz-Sousa&show_icons=true&theme=tokyonight)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuLuiz-Sousa&layout=compact&theme=tokyonight)
 
   ### You can talk to me for 
 
