@@ -12,9 +12,13 @@
 
   <br/>
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuLuiz-Sousa&show_icons=true&theme=tokyonight)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuLuiz-Sousa&layout=compact&theme=tokyonight)
+<a href="https://github.com/EuLuiz-Sousa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EuLuiz-Sousa" />
+</a>
+<a href="https://github.com/EuLuiz-Sousa/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EuLuiz-Sousa&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
   ### You can talk to me for 
 
