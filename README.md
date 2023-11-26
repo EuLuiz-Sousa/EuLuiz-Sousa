@@ -27,4 +27,3 @@
   
 <div style="display: inline_block"><br>
 
-![snake gif](https://github.com/EuLuiz-Sousa/EuLuiz-Sousa/blob/output/github-contribution-grid-snake.svg)
